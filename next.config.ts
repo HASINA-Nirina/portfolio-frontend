@@ -6,5 +6,6 @@ const nextConfig: NextConfig = {
   turbopack: {
     root: './frontend'
   },
+  devIndicators:false,
 };
 export default nextConfig;
